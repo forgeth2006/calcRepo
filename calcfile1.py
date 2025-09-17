@@ -1,5 +1,6 @@
 def add(a,b):
     return a+b
+
 def mul(a,b):
     return a*b
 def sub(a,b):
@@ -9,3 +10,11 @@ b=10
 print(add(a,b))
 print(sub(a,b))
 print(mul(a,b))
+
+def divide(a,b):
+    return a/b
+a=20
+b=10
+print(add(a,b))
+print(divide(a/b))
+
